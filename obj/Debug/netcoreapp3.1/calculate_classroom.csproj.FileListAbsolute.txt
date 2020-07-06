@@ -1,0 +1,12 @@
+C:\devbuild4\calculate_classroom\bin\Debug\netcoreapp3.1\calculate_classroom.exe
+C:\devbuild4\calculate_classroom\bin\Debug\netcoreapp3.1\calculate_classroom.deps.json
+C:\devbuild4\calculate_classroom\bin\Debug\netcoreapp3.1\calculate_classroom.runtimeconfig.json
+C:\devbuild4\calculate_classroom\bin\Debug\netcoreapp3.1\calculate_classroom.runtimeconfig.dev.json
+C:\devbuild4\calculate_classroom\bin\Debug\netcoreapp3.1\calculate_classroom.dll
+C:\devbuild4\calculate_classroom\bin\Debug\netcoreapp3.1\calculate_classroom.pdb
+C:\devbuild4\calculate_classroom\obj\Debug\netcoreapp3.1\calculate_classroom.AssemblyInfoInputs.cache
+C:\devbuild4\calculate_classroom\obj\Debug\netcoreapp3.1\calculate_classroom.AssemblyInfo.cs
+C:\devbuild4\calculate_classroom\obj\Debug\netcoreapp3.1\calculate_classroom.csproj.CoreCompileInputs.cache
+C:\devbuild4\calculate_classroom\obj\Debug\netcoreapp3.1\calculate_classroom.dll
+C:\devbuild4\calculate_classroom\obj\Debug\netcoreapp3.1\calculate_classroom.pdb
+C:\devbuild4\calculate_classroom\obj\Debug\netcoreapp3.1\calculate_classroom.genruntimeconfig.cache
